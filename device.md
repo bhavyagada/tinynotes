@@ -1,7 +1,7 @@
 # [Device](https://github.com/tinygrad/tinygrad/blob/master/tinygrad/device.py)
 
 ## Device 
-### initialization
+### init
 
 It creates a device list by using the `runtime/ops_*` file names.
 ```python
